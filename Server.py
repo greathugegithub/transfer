@@ -110,5 +110,5 @@ class F():
 if __name__ == '__main__':
     m = main()
     while True:
-        m.recv('114.215.115.180')
+        m.recv('###.###.###.###')
 
